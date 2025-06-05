@@ -1,5 +1,7 @@
 # SecureAI - Chatbot Demo
 
+Edit: Won Best Social Good Hack at VTHacks 2024!
+
 This project demonstrates two chatbots: a **Jailbroken** chatbot and a **Secure** chatbot. The **Jailbroken** chatbot processes adversarial queries, while the **Secure** chatbot sanitizes inputs using novel approaches to ensure security. Both chatbots interact with a backend API, with the **Jailbroken** chatbot generating an adversarial string and responding, and the **Secure** chatbot responding after sanitization.
 
 ## Features
