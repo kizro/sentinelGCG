@@ -1,4 +1,4 @@
-# SecureAI - Chatbot Demo
+# sentinelGCG
 
 Edit: Won Best Social Good Hack at VTHacks 2024!
 
